@@ -1,1 +1,61 @@
+name: Kamalesh Reddy
+phone no: 895776521545
+Product ID: 1024
+Product :Water Bottle
+Price: 20
+Quantity: 1
+Bill Amount: 20
+2021-09-02 17:12:37.472310
+
+name: Rahul
+phone no: 11230456789
+Product ID: 1001
+Product :Gooday biscuits
+Price: 20
+Quantity: 5
+Bill Amount: 100
+2021-09-02 17:14:32.196554
+
+Product ID: 1010
+Product :Shampoo
+Price: 100
+Quantity: 1
+Bill Amount: 100
+2021-09-02 17:14:55.985869
+
+name: kamalesh reddy k
+phone no: 7855485552
+Product ID: 1003
+Product :Cake
+Price: 15
+Quantity: 2
+Bill Amount: 30
+2021-09-03 13:13:50.202962
+
+name: kamalesh
+phone no: 7075206038
+Product ID: 1010
+Product :Shampoo
+Price: 100
+Quantity: 5
+Bill Amount: 500
+2021-09-30 17:50:12.234332
+
+name: Kintur Shah
+phone no: 9537428943
+Product ID: 1001
+Product :Gooday biscuits
+Price: 20
+Quantity: 5
+Bill Amount: 100
+2023-03-26 21:16:22.443425
+
+name: Kintur Shah
+phone no: 9537428943
+Product ID: 1005
+Product :Mobile
+Price: 10000
+Quantity: 40
+Bill Amount: 400000
+2023-03-26 21:21:46.553497
 
