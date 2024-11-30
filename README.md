@@ -20,7 +20,7 @@ cd Inventory-Management-System-IMS-Project  <br>
 
 3) <b> Run the application: </b> python main.py
 
-## Future Enhancements
+## Future Enhancements:
 Implement a graphical user interface (GUI) for easier navigation. <br>
 Add user authentication for secure access. <br>
 Integrate database storage for larger-scale operations.
