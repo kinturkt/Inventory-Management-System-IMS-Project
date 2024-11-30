@@ -27,5 +27,5 @@ Integrate database storage for larger-scale operations.
 
 Kintur Shah
 
-[GitHub](https://github.com/kinturkt)
+[GitHub](https://github.com/kinturkt) <br>
 [LinkedIn](https://www.linkedin.com/in/kintur-shah-a81134210/)
