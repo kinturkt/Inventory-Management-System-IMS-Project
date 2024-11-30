@@ -13,3 +13,14 @@ The Inventory Management System (IMS) is a Python-based project designed to stre
 
 ## Installation:
 
+1) <b> Clone the repository: </b> git clone https://github.com/kinturkt/Inventory-Management-System-IMS-Project.git
+cd Inventory-Management-System-IMS-Project  <br>
+ 
+2) <b> Ensure Python 3.8 or later is installed on your system. Install the required dependencies (if any): </b> pip install -r requirements.txt <br>
+
+3) <b> Run the application: </b> python main.py
+
+## Future Enhancements
+Implement a graphical user interface (GUI) for easier navigation.
+Add user authentication for secure access.
+Integrate database storage for larger-scale operations.
