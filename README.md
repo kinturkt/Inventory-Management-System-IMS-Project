@@ -1,8 +1,15 @@
 # Inventory-Management-System
 
-The Inventory Management system is used to manage store products and keep track of all goods stock <br>
-and also we can use it to check the purchases history of the store. <br>
+## Description
+The Inventory Management System (IMS) is a Python-based project designed to streamline inventory operations. This system allows users to manage inventory efficiently by adding, updating, and tracking products. It features a user-friendly interface and leverages JSON for data storage, making it lightweight and easy to use. <br>
 
-This repository is having all the codes used for building IMS project. <br>
-Here, you will be able to learn how to add items to a dictionary and how to purchase a item from it.
+## Features:
+Add New Products: Easily add new items to your inventory. <br>
+Update Existing Products: Modify product details, including quantity and price. <br>
+Track Stock Levels: Monitor inventory levels in real-time. <br>
+JSON-Based Storage: Uses JSON files to save and retrieve inventory data. <br>
+Search Functionality: Quickly find products by name or ID. <br>
+Generate Reports: Summarize inventory details for analysis. <br>
+
+## Installation:
 
