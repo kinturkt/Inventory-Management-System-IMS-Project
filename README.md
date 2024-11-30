@@ -24,3 +24,8 @@ cd Inventory-Management-System-IMS-Project  <br>
 Implement a graphical user interface (GUI) for easier navigation. <br>
 Add user authentication for secure access. <br>
 Integrate database storage for larger-scale operations.
+
+Kintur Shah
+
+[GitHub](https://github.com/kinturkt)
+[LinkedIn](https://www.linkedin.com/in/kintur-shah-a81134210/)
